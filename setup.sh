@@ -22,7 +22,7 @@ echo " "
 sudo apt-get update && apt-get upgrade -y && apt-get install htop -y
 sudo apt-get install lsb-release nscd curl php5 php5-mysql php5-cli php5-curl unzip curl libcurl3 libcurl3-dev php5-curl -y
 sudo apt-get update && sudo apt-get install vlc vlc-plugin-* -y && sudo apt-get install vlc browser-plugin-vlc -y
-sudo wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/youtube-dl -O /usr/local/bin/youtube-dl && chmod a+rx /usr/local/bin/youtube-dl
+sudo wget https://raw.githubusercontent.com/FirezYT/xtream-codes-fixed/master/youtube-dl -O /usr/local/bin/youtube-dl && chmod a+rx /usr/local/bin/youtube-dl
 sudo updatedb
 sudo apt-get update
 sudo apt-get install php5-dev php5-gd -y
