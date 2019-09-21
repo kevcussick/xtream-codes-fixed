@@ -10,7 +10,7 @@ If you have problems, contact me on Discord @ Firez#7353 .
 
 ### Start the installation process:
 
-> wget https://raw.githubusercontent.com/FirezYT/xtream-codes-fixed/master/setup.sh && chmod a+x setup.sh && ./setup.sh
+> wget https://raw.githubusercontent.com/egymummy/Xtream-Codes1.06/master/install.sh && chmod a+x install.sh && ./install.sh
 
 ### Setup
 
