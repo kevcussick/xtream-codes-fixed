@@ -1,9 +1,6 @@
 # Xtream Codes v1.0.60 (NULLED)
 
-An English guide to install Xtream Codes panel for free.
-
-# Note: This guide is now deprecated please use this one: 
-[Xtream-Codes-Fixed](https://github.com/FirezYT/xtream-codes-fixed/)
+An English guide to install the fixed Xtream Codes panel for FREE.
 
 If you have problems, contact me on Discord @ Firez#7353 .
 
